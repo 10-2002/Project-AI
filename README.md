@@ -4,7 +4,7 @@ created by Reaktor Innovations and University of Helsinki.
 
 # AI recruitment assistant
 
-Final project for the Building AI course
+Final project for the Building AI course.
 
 ## Summary
 Recruitment and selection in organizations can be a lengthy, complex, and often biased process. AI can be a great ally for organizations when it comes to facilitating the recruitment and selection of CVs. It can also be useful for carrying out more diverse and inclusive recruitment, not excluding profiles at first glance.
